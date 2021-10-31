@@ -1,0 +1,1 @@
+This is just a landing page made as part of the odin project's CSS steps :)
